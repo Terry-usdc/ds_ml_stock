@@ -1,0 +1,21 @@
+# 模型權重（大檔案）
+*.pt
+*.pth
+
+# 資料檔
+*.parquet
+*.csv
+*.feather
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# 環境
+.env
+*.egg-info/
+dist/
+build/
