@@ -88,7 +88,7 @@ ds_ml_stock/
 
 ## 模型
 
-### 架構：FT-Transformer（PyTorch 手刻）
+### 架構：FT-Transformer
 
 ```
 x_cont ──→ Linear projection (W_j, b_j)  ──┐
